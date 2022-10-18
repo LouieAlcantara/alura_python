@@ -12,5 +12,9 @@ print('Você digitou {}'.format(chute_str))
 
 if numero_secreto == chute :
     print('Você acertou xD')
-else:
-    print('Você errou')
+elif chute <= numero_secreto :
+    print('Seu chute foi menor que o número secreto')
+else :
+    print('Seu chute foi maior que o número secreto')
+
+print('FIM DE JOGO')
