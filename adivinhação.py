@@ -4,5 +4,13 @@ print('-'*30)
 
 numero_secreto = 13
 
-chute = input('Digite um número:')
-print('voce digitou {}'.format(chute))
+chute_str = input('Digite um número:')
+
+chute = int (chute_str)
+
+print('Você digitou {}'.format(chute_str))
+
+if numero_secreto == chute :
+    print('Você acertou xD')
+else:
+    print('Você errou')
