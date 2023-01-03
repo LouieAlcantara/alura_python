@@ -18,7 +18,7 @@ class Livro :
 
 gibi = Livro('Turma da monica', 22, 'Mauricio de Sousa')
 print('='*20)
-gibi.set_preco (7)
+gibi.set_preco (7.9)
 print(gibi.get_preco())
 print('='*20)
 print('='*20)
