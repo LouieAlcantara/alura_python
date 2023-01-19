@@ -1,0 +1,5 @@
+pedro:15.000
+
+paulo:7.500
+
+pietro:1.000
