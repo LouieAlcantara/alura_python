@@ -1,0 +1,7 @@
+lista_compras = [
+    {'descrição': 'Água', 'preço' : 2.00}
+    {'descrição': 'Leite', 'preço' : 3.00}
+    {'descrição': 'Carne', 'preço' : 18.00}
+    {'descrição': 'Pizza, 'preço' : 9.00}
+    {'descrição': 'Chocolate', 'preço' : 6.50}
+]
